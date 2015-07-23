@@ -1,0 +1,1 @@
+/usr/bin/c++    -std=c++11 -pedantic -Wall -Wextra -Wno-unknown-pragmas    CMakeFiles/tensorTool.dir/tools/tensorTool.cpp.o  -o tensorTool -rdynamic libcn24.a -lpng -ljpeg -lOpenCL 

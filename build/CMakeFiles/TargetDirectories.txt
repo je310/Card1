@@ -1,0 +1,7 @@
+/home/ubuntu/Card1/build/CMakeFiles/classifyImage.dir
+/home/ubuntu/Card1/build/CMakeFiles/cn24.dir
+/home/ubuntu/Card1/build/CMakeFiles/makeTensorStream.dir
+/home/ubuntu/Card1/build/CMakeFiles/tensorStreamTool.dir
+/home/ubuntu/Card1/build/CMakeFiles/tensorTool.dir
+/home/ubuntu/Card1/build/CMakeFiles/testOpenCL.dir
+/home/ubuntu/Card1/build/CMakeFiles/trainNetwork.dir

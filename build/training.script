@@ -1,0 +1,53 @@
+load file=../example/lmf_pretrained.Tensor last_layer=4
+train
+test
+save file=epoch_1.Tensor
+train
+test
+save file=epoch_2.Tensor
+train 
+test
+save file=epoch_3.Tensor
+train epochs=2 
+test 
+save file=epoch_5.Tensor
+train epochs=5
+test
+save file=epoch_5.Tensor
+train epochs=5
+test
+save file=epoch_5.Tensor
+train epochs=5
+test
+save file=epoch_5.Tensor
+train epochs=5
+test
+save file=epoch_5.Tensor
+train epochs=5
+test
+save file=epoch_5.Tensor
+train epochs=5
+test
+save file=epoch_5.Tensor
+train epochs=5
+test
+save file=epoch_5.Tensor
+train epochs=5
+test
+save file=epoch_5.Tensor
+train epochs=5
+test
+save file=epoch_5.Tensor
+train epochs=5
+test
+save file=epoch_5.Tensor
+train epochs=5
+test
+save file=epoch_5.Tensor
+train epochs=5
+test
+save file=epoch_5.Tensor
+train epochs=5
+test
+save file=epoch_5.Tensor
+

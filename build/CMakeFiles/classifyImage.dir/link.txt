@@ -1,0 +1,1 @@
+/usr/bin/c++    -std=c++11 -pedantic -Wall -Wextra -Wno-unknown-pragmas    CMakeFiles/classifyImage.dir/tools/classifyImage.cpp.o  -o classifyImage -rdynamic libcn24.a -lpng -ljpeg -lOpenCL 

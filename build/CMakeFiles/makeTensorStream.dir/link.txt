@@ -1,0 +1,1 @@
+/usr/bin/c++    -std=c++11 -pedantic -Wall -Wextra -Wno-unknown-pragmas    CMakeFiles/makeTensorStream.dir/tools/makeTensorStream.cpp.o  -o makeTensorStream -rdynamic libcn24.a -lpng -ljpeg -lOpenCL 

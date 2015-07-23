@@ -1,0 +1,1 @@
+/usr/bin/c++    -std=c++11 -pedantic -Wall -Wextra -Wno-unknown-pragmas    CMakeFiles/testOpenCL.dir/tools/testOpenCL.cpp.o  -o testOpenCL -rdynamic libcn24.a -lpng -ljpeg -lOpenCL 

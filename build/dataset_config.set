@@ -1,0 +1,8 @@
+training=/home/ubuntu/Card1/build/DATA_TRAIN.Tensor
+testing=/home/ubuntu/Card1/build/DATA_TEST.Tensor
+
+classes=1
+hand
+
+colors
+0x0000FF
